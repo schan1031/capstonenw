@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/175545/041fe18e25814b34a5339f1cccdf1ada
+url: http://rpubs.com/schan1031/175545
+when: 1461565731.81806
